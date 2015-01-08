@@ -4,8 +4,15 @@ Critères :
 - Budget : 2000 euros
 - Equipe : 2 personnes
 
-Nom     |   Age	 |	
---------|--------|
-Julie   |   29	 |
-Lionel  |   47	 |		
-Martin  |   32	 |
+
+Oxatys :
+
+       Site        |     Sécurité      | Espace de stockage| Quantité Produits |        Tarif      |  Simplicité    |
+-------------------|-------------------|-------------------|-------------------|-------------------|----------------|
+   Oxatis          |        Oui	       |                   |                   |                   |                |
+                   |    	             |		               |                   |                   |                |
+   Reynette        |    	             |                   |                   |                   |                |
+                
+  Store Factory
+  
+  Wizishop
