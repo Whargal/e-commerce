@@ -5,14 +5,12 @@ Critères :
 - Equipe : 2 personnes
 
 
-Oxatys :
-
-       Site        |     Sécurité      | Espace de stockage| Quantité Produits |        Tarif      |  Simplicité    |
+       Site        |   Transactions securisées | Espace de stockage| Quantité Produits |        Tarif      |  Simplicité    |
 -------------------|-------------------|-------------------|-------------------|-------------------|----------------|
-   Oxatis          |        Oui	    |                   |                   |                   |                |
+   Oxatis          |        Oui	    | 100 - 2000 MO     |100 - 10 000 prod  | à partir de 19€/m |    oui         |
                    |    	           |		          |                   |                   |                |
-   Reynette        |   Transacto sécu  | herbegemt inclus  |                   |                   |       oui      |
+   Reynette        |         oui       | herbegemt inclus  |                   |                   |      oui       |
+                   |                   |                   |                   |                   |
+  Store Factory    |        Oui        |         Illimité  |    Illimité       | 65€/mois          |      Oui
                    |
-  Store Factory    |
-                   |
-  Wizishop         |
+  Wizishop         |Oui                          
