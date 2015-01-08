@@ -12,5 +12,5 @@ Critères :
    Reynette        |         oui       | herbegemt inclus  |                   |                   |      oui       |
                    |                   |                   |                   |                   |
   Store Factory    |        Oui        |         Illimité  |    Illimité       | 65€/mois          |      Oui
-                   |
-  Wizishop         |Oui                          
+                   |||||
+  Wizishop         |Oui              | Illimité | Illimité | à partir de 39€ et en fonction du CA| Oui|      
