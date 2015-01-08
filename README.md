@@ -19,54 +19,88 @@ Critères :
 
 <h1>Conception</h1>
 
->Nom du site : meublier.com
->Thème du site : Boutique de meuble
->Accroche :
->Couleur : marron/beige
->Arborescence du site : (3 catégories/20 produits)
->Mon compte
->Mes favoris
->Mon panier
->Chambre
-*Lit (x3)
-*Commode (x2)
-*Chevet (x2)
-*Bureau
->Salle de bain
-*Baignoire
-*Douche
-*Rangement (x2)
-*Lavabos
->Cuisine
-*Chaise (x2)
-*Table (x3)
-*Placard (x3)
->Services de livraison
->Paiement et sécurité
->Suivi de commande
->Conditions générales
->Mode d'emploi
->Livraison
->Nos produits
->Conditions de retours vente à distance
->SAV
->Contactez-nous
->Politiques de confidentialité
+Nom du site : meublier.com
 
->Taxonomie de produits :
->Chambre
->Chambre > Lit
->Chambre > Commode
->Chambre > Chevet
->Chambre > Bureau
+Thème du site : Boutique de meuble
 
->Salle de bain
->Salle de bain > Baignoire
->Salle de bain > Douche
->Salle de bain > Rangement
->Salle de bain > Lavabos
+Accroche :
 
->Cuisine
->Cuisine > Chaise
->Cuisine > Table
->Cuisine > Placard
+Couleur : marron/beige
+
+Arborescence du site : (3 catégories/20 produits)
+
+Mon compte
+
+Mes favoris
+
+Mon panier
+
+Chambre
+* Lit (x3)
+* Commode (x2)
+* Chevet (x2)
+* Bureau
+
+Salle de bain
+* Baignoire
+* Douche
+* Rangement (x2)
+* Lavabos
+
+Cuisine
+* Chaise (x2)
+* Table (x3)
+* Placard (x3)
+
+Services de livraison
+
+Paiement et sécurité
+
+Suivi de commande
+
+Conditions générales
+
+Mode d'emploi
+
+Livraison
+
+Nos produits
+
+Conditions de retours vente à distance
+
+SAV
+
+Contactez-nous
+
+Politiques de confidentialité
+
+Taxonomie de produits :
+
+Chambre
+
+Chambre > Lit
+
+Chambre > Commode
+
+Chambre > Chevet
+
+Chambre > Bureau
+
+
+Salle de bain
+
+Salle de bain > Baignoire
+
+Salle de bain > Douche
+
+Salle de bain > Rangement
+
+Salle de bain > Lavabos
+
+Cuisine
+
+Cuisine > Chaise
+
+Cuisine > Table
+
+Cuisine > Placard
