@@ -9,7 +9,7 @@ Critères :
 -------------------|-------------------|-------------------|-------------------|-------------------|----------------|
    Oxatis          |        Oui	    | 100 - 2000 MO     |100 - 10 000 prod  | à partir de 19€/m |    oui         |
                    |    	           |		          |                   |                   |                |
-   Reynette        |         oui       | herbegemt inclus  |                   |                   |      oui       |
+   Reynette        |         oui       | herbegemt inclus  |                   | à patir de 39€/mois  |      oui       |
                    |                   |                   |                   |                   |
   Store Factory    |        Oui        |         Illimité  |    Illimité       | 65€/mois          |      Oui
                    |||||
