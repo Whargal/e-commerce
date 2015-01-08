@@ -11,7 +11,7 @@ Oxatys :
 -------------------|-------------------|-------------------|-------------------|-------------------|----------------|
    Oxatis          |        Oui	    |                   |                   |                   |                |
                    |    	           |		          |                   |                   |                |
-   Reynette        |   Transacto sécu  |                   |                   |                   |       oui      |
+   Reynette        |   Transacto sécu  | herbegemt inclus  |                   |                   |       oui      |
                    |
   Store Factory    |
                    |
