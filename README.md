@@ -9,9 +9,9 @@ Oxatys :
 
        Site        |     Sécurité      | Espace de stockage| Quantité Produits |        Tarif      |  Simplicité    |
 -------------------|-------------------|-------------------|-------------------|-------------------|----------------|
-   Oxatis          |        Oui	       |                   |                   |                   |                |
-                   |    	             |		               |                   |                   |                |
-   Reynette        |    	             |                   |                   |                   |                |
+   Oxatis          |        Oui	    |                   |                   |                   |                |
+                   |    	           |		          |                   |                   |                |
+   Reynette        |    	           |                   |                   |                   |                |
                 
   Store Factory
   
