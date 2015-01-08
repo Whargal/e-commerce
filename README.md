@@ -12,7 +12,7 @@ Oxatys :
    Oxatis          |        Oui	    |                   |                   |                   |                |
                    |    	           |		          |                   |                   |                |
    Reynette        |    	           |                   |                   |                   |                |
-                
-  Store Factory
-  
-  Wizishop
+                   |
+  Store Factory    |
+                   |
+  Wizishop         |
