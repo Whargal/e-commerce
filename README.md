@@ -104,3 +104,10 @@ Cuisine > Chaise
 Cuisine > Table
 
 Cuisine > Placard
+
+
+
+
+Site IKEO Yann MOUTIER : http://ikeo.myshopify.com/
+
+Site Meublier Morgane BETEND : http://meublier.myshopify.com/
