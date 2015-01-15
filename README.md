@@ -108,6 +108,6 @@ Cuisine > Placard
 
 
 
-Site IKEO Yann MOUTIER : http://ikeo.myshopify.com/
+Site IKEO Yann MOUTIER : http://ikeo.myshopify.com/ (e-mail : y-moutier@orange.fr  pwd : 123456)
 
-Site Meublier Morgane BETEND : http://meublier.myshopify.com/
+Site Meublier Morgane BETEND : http://meublier.myshopify.com/ (e-mail : morgane_betend@netcourrier.com pwd : monmeuble)
